@@ -1,6 +1,11 @@
 # weather-app
 
-> sample weather app using Vue.js, Pug for templates and SASS for styling
+> sample weather app using Vue.js, just to learn the first steps of this framework. I've created the project with Nuxt.js.
+for templates I am using Pug (Jade before) and Sass for styling all stuf!. 
+
+
+## The sample looks like this
+![](screenshoots/screenshoot-1.png)
 
 ## Build Setup
 
